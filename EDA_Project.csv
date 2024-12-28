@@ -1,0 +1,401 @@
+Company,Industry,Age,Rating,Reviews,Salary,Location,Highly Rated,Critically Rated
+TCS,IT Services & Consulting,56,3.7,82.9,9L,Mumbai,Job Security,Promotions / Appraisal
+Accenture,IT Services & Consulting,35,3.9,51.7,6L,Dublin,Company Culture,Promotions / Appraisal
+Cognizant,IT Services & Consulting,30,3.8,46.5,5.9L,,Promotions / Appraisal,Promotions / Appraisal
+Wipro,IT Services & Consulting,79,3.7,46.4,4.5L,Bengaluru,Job Security,Promotions / Appraisal
+Capgemini,IT Services & Consulting,57,3.8,38.3,4.4L,Paris,Job Security,Promotions / Appraisal
+HDFC Bank,Banking,30,3.9,37.1,1.4L,Mumbai,Job Security,Promotions / Appraisal
+ICICI Bank,Banking,30,4.0,36.3,1.5L,Mumbai,Job Security,
+Infosys,IT Services & Consulting,43,3.7,35.8,4.8L,Bangalore,Job Security,Promotions / Appraisal
+HCLTech,IT Services & Consulting,33,3.6,33.1,3.3L,Noida,Job Security,Promotions / Appraisal
+Tech Mahindra,IT Services & Consulting,38,3.6,30.4,2.6L,Pune,Promotions / Appraisal,Promotions / Appraisal
+Genpact,IT Services & Consulting,27,3.9,28.8,2L,York,Job Security,Promotions / Appraisal
+Teleperformance,,46,3.9,26.5,89.3k,Paris,Skill Development / Learning,
+Concentrix Corporation,IT Services & Consulting,41,3.8,24.7,1.2L,Fremont,Job Security,Promotions / Appraisal
+Axis Bank,Banking,31,3.8,23.9,99.3k,Mumbai,Promotions / Appraisal,Promotions / Appraisal
+Amazon,Internet,30,4.1,23.9,1.3L,Seattle,Company Culture,
+Jio,,6,3.9,21.5,64.7k,Mumbai,Job Security,Promotions / Appraisal
+Reliance Retail,Retail,18,3.9,21,66.3k,Ghansoli,Skill Development / Learning,Promotions / Appraisal
+IBM,IT Services & Consulting,113,4.1,20.9,2.1L,Armonk,Work Life Balance,Promotions / Appraisal
+iEnergizer,,24,4.7,19.6,20.5k,Noida,Company Culture,
+HDB Financial Services,NBFC,17,4.0,19.3,50.2k,Ahmedabad,Skill Development / Learning,Promotions / Appraisal
+Larsen Toubro Limited,Engineering & Construction,86,4.0,17.5,70.2k,Chennai,Job Security,
+Deloitte,Management Consulting,179,3.8,16.5,2L,Secunderabad,Job Security,Work Life Balance
+BYJU S,EdTech,13,3.1,15.9,61.2k,Budaun,Job Security,Job Security
+Kotak Mahindra Bank,Banking,21,3.8,15.4,82.2k,Mumbai,Job Security,Promotions / Appraisal
+LTIMindtree,IT Services & Consulting,27,3.5,15,1.8L,Bengaluru,Promotions / Appraisal,Promotions / Appraisal
+Reliance Industries,Oil & Gas,47,4.0,14.8,67.4k,Budaun,Job Security,Promotions / Appraisal
+Vodafone Idea,Telecom,6,4.1,14.8,55.2k,Budaun,Company Culture,
+Bharti Airtel,Telecom,72,4.0,12.9,45.8k,Budaun,Skill Development / Learning,Promotions / Appraisal
+Tata Motors,Automobile,79,4.2,11.3,41.7k,Budaun,Job Security,
+WNS,BPO,28,3.4,10.4,56.4k,Pune,Promotions / Appraisal,Promotions / Appraisal
+Flipkart,Internet,17,4.0,10.2,48.4k,Bengaluru,Skill Development / Learning,
+IndusInd Bank,Banking,30,3.6,10.1,47.5k,Budaun,Promotions / Appraisal,Promotions / Appraisal
+Ernst Young,Management Consulting,22,3.5,9.8,1.2L,Bengaluru,Work Life Balance,Work Life Balance
+IDFC FIRST Bank,Banking,6,4.0,9.5,44.3k,Budaun,Salary & Benefits,
+DXC Technology,IT Services & Consulting,7,3.7,9.4,78.5k,Bengaluru,Work Life Balance,Promotions / Appraisal
+Mahindra Mahindra,Automobile,79,4.1,9.4,37.9k,Pune,Job Security,
+AU Small Finance Bank,Banking,28,4.3,9.4,21k,Jaipur,Skill Development / Learning,
+Infosys BPM,BPO,22,3.7,9,64.4k,Pune,Job Security,Salary & Benefits
+Bajaj Finserv,Financial Services,17,4.0,8.5,26.8k,Pune,Salary & Benefits,
+HDFC Life,Insurance,24,4.0,8.4,31.3k,Mumbai,Skill Development / Learning,
+Conneqt Business Solutions,BPO,22,3.7,8.4,27.1k,Mumbai,Promotions / Appraisal,Promotions / Appraisal
+PwC,Management Consulting,144,3.5,8.3,93k,London,Work Life Balance,Work Life Balance
+Mphasis,IT Services & Consulting,26,3.4,7.7,68.5k,Bengaluru,Promotions / Appraisal,Promotions / Appraisal
+HSBC Group,Financial Services,159,4.0,7.2,59.5k,Pune,Job Security,Promotions / Appraisal
+Yes Bank,Banking,20,3.8,7.1,43.9k,Mumbai,,
+Maruti Suzuki,Automobile,43,4.2,7.1,25.6k,Delhi,Job Security,
+Startek,,7,3.2,7,23.3k,Mumbai,Promotions / Appraisal,Promotions / Appraisal
+Paytm,FinTech,14,3.3,7,33.2k,Noida,Job Security,Job Security
+Asian Paints,Chemicals,82,4.0,6.9,22.9k,Mumbai,Salary & Benefits,
+Bandhan Bank,Banking,23,3.8,6.9,21k,Kolkata,Job Security,Promotions / Appraisal
+Samsung,Consumer Electronics & Appliances,55,4.0,6.9,27k,Seoul,Salary & Benefits,Promotions / Appraisal
+Ericsson,Telecom,148,4.2,6.8,43.2k,Stockholm,Company Culture,Promotions / Appraisal
+Hinduja Global Solutions,BPO,24,3.9,6.7,23.9k,Bengaluru,Job Security,Promotions / Appraisal
+Shriram Finance,NBFC,45,4.1,6.7,14.3k,Mumbai,Job Security,
+Quess,BPO,17,3.9,6.7,27.8k,Bangalore,Work Life Balance,Promotions / Appraisal
+EXL Service,Analytics & KPO,25,3.8,6.6,39.7k,City,Job Security,Promotions / Appraisal
+Cipla,Pharma,89,4.1,6.5,24.5k,Mumbai,Skill Development / Learning,
+UltraTech Cement,Building Material,41,4.2,6.5,21.4k,Mumbai,Job Security,
+NTT DATA,IT Services & Consulting,11,4.0,6.4,52.9k,City,Job Security,Promotions / Appraisal
+Dr Reddy s,Pharma,40,4.1,6.4,24.3k,Secunderabad,Skill Development / Learning,
+Sutherland Global Services,IT Services & Consulting,38,3.7,6.4,29.6k,Chennai,Promotions / Appraisal,Promotions / Appraisal
+Tata Steel,Iron & Steel,117,4.2,6.3,28.6k,Mumbai,Job Security,
+Bajaj Finance,NBFC,37,4.0,6.2,20.8k,Pune,Salary & Benefits,
+ICICI Prudential Life Insurance,Insurance,24,4.1,5.9,22.4k,Mumbai,Job Security,
+Wells Fargo,Financial Services,172,3.9,5.9,51.1k,Francisco,Work Life Balance,Promotions / Appraisal
+Jana Small Finance Bank,Banking,18,3.8,5.8,15k,Bengaluru,,
+Amazon Development Centre India,Internet,,4.1,5.8,31.4k,Secunderabad,Company Culture,Promotions / Appraisal
+Lupin,Pharma,56,4.2,5.7,22.5k,Mumbai,Skill Development / Learning,
+Zydus Lifesciences,Pharma,72,4.2,5.7,18.7k,Ahmedabad,Salary & Benefits,
+Delhivery,Logistics,13,3.9,5.7,19.1k,Delhi,Skill Development / Learning,Promotions / Appraisal
+L T Construction,Engineering & Construction,80,4.0,5.7,19.1k,Chennai,Job Security,Work Life Balance
+JPMorgan Chase Co,Financial Services,56,4.1,5.6,73.7k,York,Job Security,
+Muthoot Fincorp,NBFC,137,4.5,5.5,8k,Thiruvananthapuram,Skill Development / Learning,
+Sun Pharmaceutical Industries,Pharma,41,4.1,5.5,22k,Mumbai,Job Security,
+Hexaware Technologies,IT Services & Consulting,34,3.6,5.4,48.8k,Mumbai,Promotions / Appraisal,Promotions / Appraisal
+HCL Group,IT Services & Consulting,48,3.7,5.3,56.9k,Chennai,Job Security,Promotions / Appraisal
+JSW Steel,Iron & Steel,42,4.0,5.3,26.5k,Mumbai,Job Security,Promotions / Appraisal
+ITC,FMCG,114,4.0,5.3,22.6k,Kolkata,Job Security,Promotions / Appraisal
+FIS,FinTech,56,3.9,5.3,39.9k,Jacksonville,Work Life Balance,Promotions / Appraisal
+Indian Army,Defence & Aerospace,129,4.7,5.3,9.7k,Delhi,Job Security,
+Hindustan Unilever,FMCG,152,4.2,5.2,20.3k,London,Skill Development / Learning,
+IIFL Finance,NBFC,29,4.0,5.1,15.2k,Mumbai,Work Life Balance,
+KPMG India,Management Consulting,37,3.5,5,54.6k,Bengaluru,Work Life Balance,Work Life Balance
+Max Life Insurance,Insurance,24,4.1,5,18.2k,Gurugram,Skill Development / Learning,
+Ujjivan Small Finance Bank,Banking,7,4.1,5,12k,Bengaluru,Company Culture,
+Udaan,Internet,8,4.0,5,17.5k,Bangalore,Salary & Benefits,Job Security
+Oracle,Emerging Technologies,47,3.7,4.9,59.4k,Austin,Work Life Balance,Promotions / Appraisal
+Tata Projects,Engineering & Construction,45,4.3,4.8,20k,Mumbai,Job Security,
+Muthoot Finance,NBFC,85,3.6,4.7,12.1k,Cochin,Promotions / Appraisal,Promotions / Appraisal
+Ekart Logistics,,15,4.0,4.7,13.1k,Francisco,Skill Development / Learning,Promotions / Appraisal
+Megha Engineering Infrastructures,Engineering & Construction,35,4.0,4.7,16.4k,Secunderabad,Job Security,Promotions / Appraisal
+eClerx,IT Services & Consulting,24,3.4,4.6,28.3k,Mumbai,Promotions / Appraisal,Promotions / Appraisal
+Omega Healthcare,BPO,21,3.8,4.6,22.1k,Raton,Promotions / Appraisal,Promotions / Appraisal
+Aurobindo Pharma,Pharma,38,4.0,4.5,21.7k,Secunderabad,Job Security,
+JLL,Real Estate,25,4.2,4.5,20.7k,Mumbai,Job Security,
+Shapoorji Pallonji Group,Engineering & Construction,159,4.2,4.5,15.2k,Mumbai,Job Security,
+Bajaj Allianz Life Insurance,Insurance,23,4.0,4.5,15.5k,Pune,Salary & Benefits,
+Siemens,Industrial Automation,177,4.1,4.4,31.3k,Munich,Job Security,Promotions / Appraisal
+Coforge,IT Services & Consulting,32,3.4,4.4,40.6k,Noida,Promotions / Appraisal,Promotions / Appraisal
+Virtusa Consulting Services,IT Services & Consulting,28,3.8,4.4,53.7k,Southborough,Promotions / Appraisal,Promotions / Appraisal
+Indiamart Intermesh,Internet,28,3.5,4.3,19k,Noida,Promotions / Appraisal,Promotions / Appraisal
+Ashok Leyland,Automobile,76,4.1,4.3,18.1k,Chennai,Skill Development / Learning,Promotions / Appraisal
+Apollo Hospitals,Healthcare,41,4.1,4.3,15.7k,Chennai,Job Security,
+L T Technology Services,IT Services & Consulting,12,3.4,4.3,38.1k,Baroda,Promotions / Appraisal,Promotions / Appraisal
+First Source,BPO,23,3.7,4.3,21.6k,Mumbai,Promotions / Appraisal,Promotions / Appraisal
+Standard Chartered,Banking,171,3.8,4.3,40.3k,London,Job Security,Promotions / Appraisal
+DMart,Retail,22,3.9,4.2,15.3k,Mumbai,Job Security,Promotions / Appraisal
+JustDial,Internet,28,3.5,4.2,15.3k,Mumbai,Promotions / Appraisal,Promotions / Appraisal
+BigBasket,Internet,13,4.0,4.2,16.9k,Bangalore,Job Security,Promotions / Appraisal
+ICICI Lombard General Insurance Company,Insurance,23,3.7,4.2,18.6k,Mumbai,Promotions / Appraisal,Promotions / Appraisal
+Vivo,Consumer Electronics & Appliances,15,4.1,4.2,13.3k,Gurugram,Skill Development / Learning,Promotions / Appraisal
+Hero MotoCorp,Automobile,40,4.2,4.2,14.8k,Gurugram,Work Life Balance,
+Cyient,IT Services & Consulting,33,3.7,4.2,26.6k,Secunderabad,Promotions / Appraisal,Promotions / Appraisal
+Home Credit Finance,NBFC,12,4.1,4.2,10.5k,Gurugram,Company Culture,Promotions / Appraisal
+CGI Group,IT Services & Consulting,48,4.1,4.2,43.8k,Montreal,Job Security,Promotions / Appraisal
+Mahindra Finance,NBFC,33,4.1,4.2,11.3k,Mumbai,Company Culture,
+GlobalLogic,IT Services & Consulting,24,3.7,4.2,35.8k,Jose,Work Life Balance,Promotions / Appraisal
+Cholamandalam Investment Finance,Financial Services,46,4.0,4,11.5k,Chennai,Salary & Benefits,
+Equitas Small Finance Bank,Banking,17,4.3,4,11.9k,Chennai,Job Security,
+UST,IT Services & Consulting,23,3.9,4,36.4k,Viejo,Work Life Balance,Promotions / Appraisal
+Bosch Global Software Technologies,Software Product,27,4.0,4,36.5k,Gerlingen,Job Security,Promotions / Appraisal
+OPPO,Consumer Electronics & Appliances,20,4.0,4,12.4k,Dongguan,Skill Development / Learning,Promotions / Appraisal
+Nagarro,IT Services & Consulting,28,4.0,3.9,27.9k,Munich,Work Life Balance,
+Manappuram Finance,NBFC,75,4.0,3.9,7.8k,Trichur,Skill Development / Learning,
+SMFG India Credit,NBFC,17,4.1,3.9,10.6k,Mumbai,Salary & Benefits,
+TVS Motor,Automobile,45,4.0,3.9,14.6k,Chennai,Skill Development / Learning,
+SBI Cards Payment Services,Financial Services,26,3.7,3.9,16.1k,Gurugram,Promotions / Appraisal,Promotions / Appraisal
+IQVIA,Clinical Research,42,4.0,3.8,28.2k,Durham,Job Security,Promotions / Appraisal
+Kalpataru Projects International,Engineering & Construction,43,4.2,3.8,12.5k,Mumbai,Job Security,
+Atos Syntel,IT Services & Consulting,44,3.6,3.8,34.2k,Troy,Promotions / Appraisal,Promotions / Appraisal
+Optum,,47,4.0,3.8,30.1k,Prairie,Job Security,Promotions / Appraisal
+Swiggy,Internet,10,3.8,3.8,20.7k,Bangalore,Job Security,Job Security
+BNY,Financial Services,240,4.0,3.8,29.2k,City,Company Culture,Promotions / Appraisal
+Amdocs,Software Product,42,3.9,3.7,36.2k,Chesterfield,Company Culture,Promotions / Appraisal
+Hewlett Packard Enterprise,IT Services & Consulting,9,4.2,3.7,27.5k,Houston,Company Culture,Promotions / Appraisal
+State Bank of India,Banking,218,3.8,3.7,11.2k,Mumbai,Job Security,Work Life Balance
+Bosch,Auto Components,138,4.2,3.7,20.4k,Gerlingen,Company Culture,
+CBRE,Real Estate,118,4.2,3.6,16.7k,Angeles,Skill Development / Learning,
+Hyundai Motor India Limited,Automobile,57,4.4,3.6,13.7k,Seoul,Job Security,
+Dell,Consumer Electronics & Appliances,40,4.1,3.6,27.7k,Rock,Work Life Balance,Promotions / Appraisal
+SBI Life Insurance Company,Insurance,23,3.8,3.6,11.1k,Mumbai,Job Security,Promotions / Appraisal
+JBM Group,Auto Components,41,4.0,3.6,13.5k,Gurugram,Job Security,
+Persistent Systems,IT Services & Consulting,34,3.6,3.6,37.6k,Pune,Promotions / Appraisal,Promotions / Appraisal
+Schneider Electric,Industrial Automation,25,4.2,3.5,21.4k,Paris,Company Culture,
+Ecom Express,Logistics,12,3.9,3.5,9.1k,Gurgaon,Promotions / Appraisal,Promotions / Appraisal
+Bajaj Auto,Automobile,79,3.9,3.4,13.6k,Pune,Company Culture,Promotions / Appraisal
+Oyo Rooms,Hospitality,12,3.3,3.4,22.1k,Gurgaon,Job Security,Job Security
+KEC International,Engineering & Construction,79,4.1,3.4,11.9k,Mumbai,Job Security,Promotions / Appraisal
+Marpu Foundation,,8,4.9,3.4,,Secunderabad,Company Culture,
+Nagarjuna Construction Company,Engineering & Construction,26,4.2,3.4,10.7k,Secunderabad,Job Security,
+Piramal Capital Housing Finance,NBFC,4,4.2,3.4,9.9k,Mumbai,Company Culture,
+Reliance Communications,Telecom,22,4.0,3.4,11.4k,Mumbai,Skill Development / Learning,Promotions / Appraisal
+ITC Infotech,IT Services & Consulting,24,3.9,3.4,28.9k,Bengaluru,Work Life Balance,Promotions / Appraisal
+CARS24,Internet,9,3.6,3.3,13.9k,Gurgaon,Job Security,Job Security
+Aditya Birla Fashion and Retail,Fashion & Textile,36,4.2,3.3,12.1k,Mumbai,Job Security,
+Varun Beverages,Beverage,29,4.1,3.3,10.3k,Gurugram,Job Security,
+Randstad,Recruitment,32,3.8,3.2,14.8k,Chennai,Promotions / Appraisal,Promotions / Appraisal
+EY Global Delivery Services EY GDS,Accounting & Auditing,22,3.6,3.2,33.1k,Bengaluru,Job Security,Promotions / Appraisal
+L T Finance,NBFC,30,4.0,3.2,11.4k,Mumbai,Salary & Benefits,
+Tata Communications,Telecom,38,4.1,3.2,23.2k,Mumbai,Job Security,Promotions / Appraisal
+Kogta Financial India Limited,NBFC,28,4.8,3.2,1.6k,Jaipur,Company Culture,
+John Deere,Industrial Machinery,23,4.1,3.2,14.7k,Moline,Company Culture,
+Intas Pharmaceuticals,,47,4.1,3.2,15.8k,Bengaluru,Job Security,
+Royal Enfield,Automobile,123,4.2,3.2,13.4k,Bengaluru,Skill Development / Learning,
+Deutsche Bank,Banking,154,3.9,3.2,32.2k,Bengaluru,Job Security,Promotions / Appraisal
+LG Electronics,Consumer Electronics & Appliances,66,4.0,3.1,10.3k,Bengaluru,Job Security,
+Thermax Limited,Industrial Machinery,58,4.2,3.1,12.2k,Bengaluru,Job Security,
+Team Lease,Recruitment,8,3.9,3.1,15.1k,Bengaluru,Promotions / Appraisal,Promotions / Appraisal
+Samvardhana Motherson Group,Auto Components,38,3.8,3.1,13.2k,Bengaluru,Job Security,Promotions / Appraisal
+PolicyBazaar,Internet,16,3.6,3.1,14k,Bengaluru,Salary & Benefits,Work Life Balance
+R1 RCM,Healthcare,17,3.9,3.1,18.2k,Bengaluru,Job Security,
+Macleods Pharmaceuticals,,38,3.7,3.1,14.5k,Bengaluru,Job Security,Promotions / Appraisal
+Havells,Electrical Equipment,41,4.0,3,13k,Bengaluru,Work Life Balance,
+Access Healthcare,IT Services & Consulting,13,3.9,3,20.8k,Bengaluru,Job Security,Promotions / Appraisal
+Future Group,Retail,11,4.3,3,10k,Bengaluru,Skill Development / Learning,
+Hetero Drugs,,31,3.9,3,14k,Bengaluru,Job Security,Promotions / Appraisal
+Godrej Boyce Manufacturing,Consumer Electronics & Appliances,127,3.9,3,15.4k,Bengaluru,Job Security,Promotions / Appraisal
+Aakash Educational Services,Education & Training,36,3.5,3,12.2k,Bengaluru,Promotions / Appraisal,Promotions / Appraisal
+Tata AIA Life Insurance,Insurance,23,4.0,3,12.6k,Bengaluru,Job Security,
+Publicis Sapient,IT Services & Consulting,34,3.5,3,28.4k,Bengaluru,Promotions / Appraisal,Promotions / Appraisal
+PVR Inox,Media & Entertainment,27,4.0,3,9.4k,Gurgaon,Skill Development / Learning,Promotions / Appraisal
+Cummins,Industrial Machinery,105,4.3,3,15.2k,Columbus,Company Culture,
+Viatris,Pharma,4,4.2,2.9,14.1k,Canonsburg,Salary & Benefits,
+Atos,IT Services & Consulting,27,3.8,2.9,29.1k,Vilnius,Work Life Balance,Promotions / Appraisal
+VE Commercial Vehicles,Automobile,16,4.0,2.9,12.9k,Gurugram,Job Security,Promotions / Appraisal
+Square Yards,Real Estate,10,4.1,2.9,8.2k,Gurugram,Promotions / Appraisal,
+Abbott,Pharma,136,4.2,2.9,11.1k,City,Salary & Benefits,Promotions / Appraisal
+Subros,Auto Components,39,3.9,2.9,12.2k,Noida,Job Security,Salary & Benefits
+American Express,Financial Services,174,4.2,2.9,21.8k,City,Company Culture,
+Utkarsh Small Finance Bank,Banking,15,3.9,2.9,9.5k,Varanasi,,
+Pidilite Industries,Chemicals,65,4.3,2.9,10.2k,Mumbai,Job Security,
+Indian Oil Corporation,Oil & Gas,65,4.4,2.9,7.9k,NCR,Company Culture,
+Automatic Data Processing ADP,Software Product,75,4.1,2.9,20.6k,Jersey,Job Security,Promotions / Appraisal
+DCB Bank,Banking,94,3.8,2.9,9.4k,Mumbai,Work Life Balance,
+Whitehat jr,EdTech,6,3.5,2.9,10.1k,Mumbai,Job Security,Job Security
+Alembic Pharmaceuticals,Pharma,117,4.0,2.9,14.1k,Baroda,Salary & Benefits,
+Berger Paints,Chemicals,101,3.7,2.9,8.8k,Kolkata,Promotions / Appraisal,Promotions / Appraisal
+Bharat Electronics,Electronics Manufacturing,70,4.2,2.9,12k,Bengaluru,Work Life Balance,Promotions / Appraisal
+Sodexo,Facility Management Services,16,4.1,2.9,9.7k,Moulineaux,Company Culture,
+Barclays,Banking,334,4.0,2.8,25.5k,London,Job Security,Promotions / Appraisal
+Carelon Global Solutions,IT Services & Consulting,,4.0,2.8,25.4k,Secunderabad,Job Security,Promotions / Appraisal
+Hindalco Industries,Metals & Mining,66,4.2,2.8,10.4k,Mumbai,Job Security,
+Bank of America,Banking,26,4.4,2.8,25.4k,Charlotte,Job Security,
+Lenskart,Internet,14,3.2,2.8,10.6k,Faridabad,Promotions / Appraisal,Promotions / Appraisal
+Ford Motor,Automobile,121,4.4,2.7,14.3k,Dearborn,Company Culture,
+Alkem Laboratories,Pharma,51,3.9,2.7,9.2k,Mumbai,Salary & Benefits,
+Vishal Mega Mart,Retail,16,3.8,2.7,6.6k,Gurugram,Salary & Benefits,Company Culture
+Jindal Steel and Power,Iron & Steel,45,4.0,2.7,13.6k,NCR,Skill Development / Learning,
+Cogent E Services,,20,3.3,2.7,9.2k,Noida,Promotions / Appraisal,Promotions / Appraisal
+HDFC Ergo General Insurance,Insurance,22,4.0,2.7,12k,Mumbai,Job Security,Promotions / Appraisal
+Maersk,Logistics,120,4.3,2.7,17.1k,Copenhagen,Company Culture,
+Wipro Infotech,IT Services & Consulting,79,4.0,2.7,15.1k,Bangalore,Job Security,Promotions / Appraisal
+RBL Bank,Banking,81,3.7,2.7,16.8k,Mumbai,Promotions / Appraisal,Promotions / Appraisal
+Escorts Kubota Limited,Automobile,80,4.1,2.7,11.7k,Faridabad,Skill Development / Learning,
+Johnson Controls,Industrial Automation,139,3.6,2.7,15.8k,Cork,Promotions / Appraisal,Promotions / Appraisal
+Indian Air Force,Defence & Aerospace,92,4.6,2.7,5k,Delhi,Job Security,
+Ipca Laboratories,Pharma,75,4.0,2.7,11.3k,Mumbai,Job Security,Promotions / Appraisal
+Jubilant Foods Works,Hospitality,29,3.8,2.7,8k,Noida,Skill Development / Learning,Promotions / Appraisal
+Reliance Digital,Retail,17,4.2,2.7,7.6k,Mumbai,Skill Development / Learning,
+Glenmark Pharmaceuticals,Pharma,47,4.0,2.7,11.5k,Mumbai,Skill Development / Learning,Promotions / Appraisal
+Synechron,IT Services & Consulting,23,3.6,2.6,27.9k,York,Salary & Benefits,Job Security
+Aarti Industries,Agro Chemicals,49,4.2,2.6,13.7k,Mumbai,Job Security,
+24 7 Customer,Software Product,24,3.5,2.6,13.3k,Jose,Promotions / Appraisal,Promotions / Appraisal
+Birlasoft,IT Services & Consulting,29,3.7,2.6,28.9k,Pune,Promotions / Appraisal,Promotions / Appraisal
+MRF Tyres,Auto Components,78,3.7,2.6,11.4k,Chennai,Job Security,Company Culture
+Hindustan Coca Cola Beverages,Beverage,27,4.2,2.6,7.2k,Bangalore,Salary & Benefits,
+Paras Hospital,Healthcare,18,4.5,2.6,2.9k,Gurugram,Skill Development / Learning,
+Honda Motorcycle Scooter,Automobile,23,4.1,2.6,11.1k,Gurugram,Job Security,
+Kotak Mahindara Life Insurance,Insurance,23,3.8,2.6,11.8k,Mumbai,Job Security,Promotions / Appraisal
+PNB MetLife,Insurance,23,3.4,2.6,7.8k,Mumbai,Job Security,Job Security
+DTDC Express,Logistics,34,3.8,2.6,8.2k,Bengaluru,Promotions / Appraisal,Promotions / Appraisal
+JK Cement,Building Material,49,4.1,2.6,8.8k,Nimbahera,Salary & Benefits,
+UnitedHealth,Healthcare,47,4.1,2.6,18.6k,Minnetonka,Job Security,Promotions / Appraisal
+Reliance Nippon Life Insurance,Insurance,24,3.7,2.6,8.2k,Mumbai,Promotions / Appraisal,Promotions / Appraisal
+Ceat Tyres,Auto Components,66,4.0,2.6,12.1k,Mumbai,Job Security,Promotions / Appraisal
+ABB Group,Industrial Automation,36,4.1,2.5,15.7k,Zurich,Job Security,
+HARMAN,Consumer Electronics & Appliances,15,3.8,2.5,24.3k,Stamford,Work Life Balance,Promotions / Appraisal
+Dabur,FMCG,140,3.8,2.5,8.1k,Ghaziabad,Promotions / Appraisal,Promotions / Appraisal
+NatWest Group,Banking,,4.0,2.5,19.9k,Gurugram,Work Life Balance,Promotions / Appraisal
+KPIT Technologies,Software Product,34,3.5,2.5,21.1k,Pune,Promotions / Appraisal,Promotions / Appraisal
+GeBBS Healthcare Solutions,Healthcare,19,3.7,2.5,11k,City,Job Security,Promotions / Appraisal
+Conduent,BPO,7,3.5,2.5,17.7k,Park,Promotions / Appraisal,Promotions / Appraisal
+InterGlobe Aviation,Aviation,19,3.6,2.5,12.7k,Gurugram,Promotions / Appraisal,Promotions / Appraisal
+IGT Solutions,IT Services & Consulting,26,3.3,2.5,11.9k,Gurugram,Promotions / Appraisal,Promotions / Appraisal
+CMS IT Services,IT Services & Consulting,10,3.1,2.5,10.3k,Bangalore,Promotions / Appraisal,Promotions / Appraisal
+State Street Corporation,Financial Services,232,3.8,2.4,26k,Boston,Job Security,Promotions / Appraisal
+RSPL Group,FMCG,36,4.2,2.4,8.7k,Kanpur,Job Security,
+TVS Credit,NBFC,16,4.4,2.4,6.6k,Chennai,Company Culture,
+Sahrudaya Healthcare Medicover Hospitals,Healthcare,13,4.7,2.4,2.9k,Secunderabad,Skill Development / Learning,
+Aditya Birla Sun Life Insurance,Insurance,24,4.1,2.4,8.4k,Mumbai,Company Culture,
+Alstom Transportation,Engineering & Construction,96,3.8,2.4,12.8k,Ouen,Job Security,Promotions / Appraisal
+Reliance SMSL,BPO,17,4.0,2.4,5.7k,Mumbai,Skill Development / Learning,Promotions / Appraisal
+ArcelorMittal Nippon Steel,Iron & Steel,,4.1,2.4,10k,Surat,Job Security,
+Tata AIG,Insurance,24,4.1,2.4,10.6k,Mumbai,Job Security,Promotions / Appraisal
+ACC,Building Material,88,3.9,2.4,9.8k,Mumbai,Promotions / Appraisal,Promotions / Appraisal
+IDFC FIRST Bharat,NBFC,8,4.5,2.4,4.4k,Tiruchirappalli,Salary & Benefits,
+PepsiCo,Food Processing,59,4.1,2.4,10.9k,Harrison,Company Culture,
+Titan Company,Retail,40,4.4,2.4,8.5k,Bangalore,Company Culture,
+UPL,Agro Chemicals,55,4.2,2.4,10.7k,Mumbai,Job Security,
+S P Global,Analytics & KPO,164,4.2,2.4,18.1k,City,Company Culture,Promotions / Appraisal
+Shoppers Stop,Retail,33,4.1,2.4,7.2k,Mumbai,Job Security,
+Torrent Pharmaceuticals,Pharma,53,3.9,2.3,10.1k,Ahmedabad,Job Security,Promotions / Appraisal
+Kyndryl,IT Services & Consulting,2,4.0,2.3,20.4k,City,Work Life Balance,Promotions / Appraisal
+Tata Technologies,Engineering & Construction,35,3.7,2.3,20.7k,Singapore,Job Security,Promotions / Appraisal
+Grasim Industries,Building Material,77,4.0,2.3,10.2k,Nagda,Job Security,
+Zensar Technologies,IT Services & Consulting,23,3.7,2.3,26.2k,Pune,Work Life Balance,Promotions / Appraisal
+Tata Capital,NBFC,17,4.1,2.3,9.2k,Mumbai,Job Security,
+Mankind Pharma,,29,3.9,2.3,8.4k,Delhi,Salary & Benefits,
+Motilal Oswal Financial Services,Financial Services,37,3.8,2.3,10.1k,Mumbai,Skill Development / Learning,Promotions / Appraisal
+Afcons Infrastructure,Engineering & Construction,65,4.3,2.3,7.9k,Mumbai,Job Security,
+Dilip Buildcon,Engineering & Construction,37,4.0,2.3,8k,Bhopal,Skill Development / Learning,
+Walmart,Retail,15,3.9,2.3,18.2k,Bengaluru,Salary & Benefits,Promotions / Appraisal
+Flex,Logistics,55,4.0,2.3,17k,Austin,Company Culture,Promotions / Appraisal
+UNO Minda,Auto Components,66,4.0,2.3,9.3k,Gurgaon,Job Security,
+Bajaj Allianz General Insurance,Insurance,,3.9,2.3,9k,Pune,Skill Development / Learning,
+Statestreet HCL Services,BPO,12,3.3,2.3,16.8k,Delhi,Promotions / Appraisal,Promotions / Appraisal
+Tech Mahindra Business Services,,21,3.4,2.3,11.4k,Mumbai,Promotions / Appraisal,Promotions / Appraisal
+Croma,Retail,18,4.0,2.3,7.4k,Mumbai,Job Security,Promotions / Appraisal
+GATI KWE,Logistics,12,4.0,2.3,5.6k,Secunderabad,Skill Development / Learning,Promotions / Appraisal
+ElasticRun,Logistics,8,3.5,2.2,6.1k,Pune,Job Security,Job Security
+Capita,IT Services & Consulting,19,3.6,2.2,14k,Indore,Promotions / Appraisal,Promotions / Appraisal
+HDFC Sales,Financial Services,20,4.0,2.2,7.8k,Mumbai,Skill Development / Learning,Promotions / Appraisal
+I Process Services,,19,3.9,2.2,5.3k,Mumbai,Company Culture,Promotions / Appraisal
+Nokia,Telecom,159,4.2,2.2,15.3k,Espoo,Work Life Balance,
+Societe Generale Global Solution Centre,IT Services & Consulting,24,3.9,2.2,20.8k,Paris,Job Security,Promotions / Appraisal
+Apollo Tyres,Auto Components,52,4.1,2.2,9.3k,Gurugram,Skill Development / Learning,Promotions / Appraisal
+Sammaan Capital Limited,NBFC,19,3.8,2.2,8.1k,Gurugram,Promotions / Appraisal,Promotions / Appraisal
+Landmark Group,Retail,51,4.0,2.2,9.1k,Marina,Job Security,Promotions / Appraisal
+Nestle,FMCG,65,4.0,2.2,9.4k,Vevey,Salary & Benefits,Promotions / Appraisal
+Domino s Pizza,,64,4.0,2.1,4.4k,Ypsilanti,Skill Development / Learning,
+BlackBuck,Internet,9,3.8,2.1,6.5k,Bangalore,Job Security,Job Security
+Quest Global,IT Services & Consulting,27,3.6,2.1,18.7k,Singapore,Promotions / Appraisal,Promotions / Appraisal
+Blue Dart Express,Logistics,41,4.1,2.1,6.2k,Mumbai,Job Security,Promotions / Appraisal
+Max Healthcare,Healthcare,23,4.1,2.1,8.7k,NCR,Skill Development / Learning,
+AGS Health,Analytics & KPO,13,4.0,2.1,10.3k,DC,Job Security,
+Suzlon Group,Power,29,4.1,2.1,7.4k,Pune,Skill Development / Learning,Promotions / Appraisal
+Bajaj Electricals,Consumer Electronics & Appliances,86,4.0,2.1,7.9k,Mumbai,Salary & Benefits,Promotions / Appraisal
+KocharTech,IT Services & Consulting,29,4.0,2.1,3.8k,Gurugram,Skill Development / Learning,
+Fiserv,FinTech,40,3.4,2.1,19k,Brookfield,Promotions / Appraisal,Promotions / Appraisal
+IKS Health,BPO,17,3.5,2.1,9.9k,Mumbai,Promotions / Appraisal,Promotions / Appraisal
+Axis Direct,Financial Services,13,3.9,2.1,5.6k,Mateo,Promotions / Appraisal,Promotions / Appraisal
+Sterlite Technologies,Hardware & Networking,36,3.8,2.1,10.8k,Pune,Promotions / Appraisal,Promotions / Appraisal
+G4S,Law Enforcement & Security,28,4.0,2.1,4.9k,Gurugram,Work Life Balance,Promotions / Appraisal
+Capgemini Engineering,,,3.5,2.1,18.5k,Gurugram,Promotions / Appraisal,Promotions / Appraisal
+McDonald s,,69,4.2,2.1,4.8k,Chicago,Skill Development / Learning,
+Zomato,Internet,16,3.7,2.1,12.9k,Gurgaon,Promotions / Appraisal,Promotions / Appraisal
+Britannia,FMCG,132,4.1,2.1,7.3k,Bengaluru,Job Security,
+Micro Labs,Pharma,51,3.7,2.1,9.3k,Bengaluru,Salary & Benefits,Salary & Benefits
+XpressBees,,9,3.7,2,7.4k,Pune,Promotions / Appraisal,Promotions / Appraisal
+Huawei Technologies,Telecom,22,4.0,2,10.3k,Gurugram,Salary & Benefits,Job Security
+Shree Cement,Building Material,45,3.9,2,9.1k,Kolkata,Promotions / Appraisal,Promotions / Appraisal
+Exide Industries,Auto Components,77,3.5,2,7.8k,Kolkata,Promotions / Appraisal,Promotions / Appraisal
+KPMG Global Services,Management Consulting,,3.6,2,19.3k,Bengaluru,Job Security,Promotions / Appraisal
+Patanjali Ayurved,FMCG,18,4.0,2,6.4k,Haridwar,Work Life Balance,Promotions / Appraisal
+PhonePe,FinTech,9,4.0,2,9.9k,Bangalore,Salary & Benefits,
+TVS Supply Chain Solutions,,128,3.9,2,8.2k,Chennai,Promotions / Appraisal,Promotions / Appraisal
+Voltas,Consumer Electronics & Appliances,70,4.0,2,8.1k,Mumbai,Job Security,Promotions / Appraisal
+KFintech,,7,3.6,2,10.2k,Hyderabad,Job Security,Promotions / Appraisal
+Mahindra Logistics,Logistics,24,4.0,2,8.5k,Mumbai,Skill Development / Learning,Promotions / Appraisal
+Fortis Healthcare,Healthcare,28,4.1,2,7.2k,Gurugram,Skill Development / Learning,
+Yazaki,Auto Components,83,3.8,2,7.9k,Tokyo,Promotions / Appraisal,Promotions / Appraisal
+Fujitsu,IT Services & Consulting,89,3.8,2,16.1k,Bengaluru,Work Life Balance,Promotions / Appraisal
+DS Group,FMCG,95,4.1,2,6.2k,Noida,Work Life Balance,Promotions / Appraisal
+Taj Hotels Resorts and Palaces,,121,4.2,2,4.8k,Mumbai,Job Security,
+Simplex Infrastructures,Engineering & Construction,100,3.3,2,6.1k,Kolkata,Salary & Benefits,Salary & Benefits
+Indus Towers,Hardware & Networking,17,3.9,2,7.8k,Gurgaon,Promotions / Appraisal,Promotions / Appraisal
+Tractors and Farm Equipment,Industrial Machinery,64,4.1,2,8.1k,Chennai,Skill Development / Learning,Promotions / Appraisal
+ACT Fibernet,Telecom,16,4.0,2,7.3k,Bangalore,Company Culture,
+Lava International,Consumer Electronics & Appliances,15,4.1,2,4.6k,Noida,Skill Development / Learning,
+Dalmia Bharat Cement,Building Material,89,4.0,2,8k,NCR,Job Security,
+ZS,Management Consulting,41,3.4,2,17.2k,Evanston,Salary & Benefits,Work Life Balance
+Himalaya Wellness,,94,4.1,1.9,6.2k,Francisco,Work Life Balance,
+VVDN Technologies,IT Services & Consulting,17,3.6,1.9,11.2k,Gurgaon,Promotions / Appraisal,Promotions / Appraisal
+SRF,Chemicals,54,4.2,1.9,7.9k,Gurugram,Job Security,
+Blue Star,Consumer Electronics & Appliances,81,4.1,1.9,9k,Mumbai,Company Culture,
+State Street Syntel,Financial Services,20,3.7,1.9,9.7k,Mumbai,Job Security,Salary & Benefits
+Citicorp,Financial Services,27,3.7,1.9,21.8k,Mumbai,Salary & Benefits,Promotions / Appraisal
+Shell,Oil & Gas,117,4.1,1.9,13.2k,London,Work Life Balance,Promotions / Appraisal
+V Mart,Retail,22,4.2,1.9,4.4k,Gurugram,Skill Development / Learning,
+Ajanta Pharma,Pharma,51,4.1,1.9,8.5k,Mumbai,Job Security,
+Tata Elxsi,IT Services & Consulting,35,3.9,1.9,19.1k,Bengaluru,Job Security,Promotions / Appraisal
+Sonalika Tractors,Automobile,55,3.7,1.9,8.3k,Hoshiarpur,Promotions / Appraisal,Promotions / Appraisal
+Mahindra Rural Housing Finance,NBFC,17,4.0,1.9,5k,Mumbai,Work Life Balance,Promotions / Appraisal
+Ola Cabs,Internet,14,3.4,1.9,10.9k,Bangalore,Job Security,Job Security
+Aditya Birla Group,Building Material,167,4.2,1.9,10.3k,Mumbai,Job Security,
+NoBroker,Internet,10,3.1,1.9,8.8k,Bangalore,Promotions / Appraisal,Promotions / Appraisal
+Lifestyle,Retail,25,4.4,1.9,6.8k,Bengaluru,Job Security,
+Movate,IT Services & Consulting,28,3.4,1.9,14.1k,Plano,Promotions / Appraisal,Promotions / Appraisal
+Extramarks Education,EdTech,17,3.4,1.9,8.1k,Noida,Job Security,Job Security
+Kalyan Jewellers,Jewellery,31,4.7,1.9,1.3k,Thrissur,Company Culture,
+Datamatics Global Services,IT Services & Consulting,49,3.5,1.9,11.6k,Mumbai,Promotions / Appraisal,Promotions / Appraisal
+suzuki motor gujarat,Automobile,,4.3,1.9,7.1k,Becharaji,Job Security,
+Kansai Nerolac Paints,Chemicals,104,3.9,1.9,6.7k,Mumbai,Job Security,Promotions / Appraisal
+Info Edge,Internet,29,4.0,1.9,10.8k,Noida,Job Security,
+Delhi Public School,,26,3.9,1.8,5.5k,Noida,Skill Development / Learning,
+Cholamandalam MS General Insurance,Insurance,23,3.9,1.8,5.7k,Chennai,Promotions / Appraisal,Promotions / Appraisal
+Ninjacart,Internet,9,4.0,1.8,5.8k,Bangalore,Salary & Benefits,
+MSN Laboratories,,21,3.7,1.8,7.9k,Secunderabad,Job Security,Company Culture
+Parle Agro,Beverage,40,4.1,1.8,6.5k,Mumbai,Job Security,
+Eureka Forbes,Consumer Electronics & Appliances,42,3.7,1.8,5.7k,Mumbai,Promotions / Appraisal,Promotions / Appraisal
+Unacademy,EdTech,9,3.0,1.8,9.7k,Bangalore,Job Security,Job Security
+Radisson Hotels,,115,4.0,1.8,5.6k,Minnetonka,Skill Development / Learning,
+Emcure Pharmaceuticals,,43,3.8,1.8,8.1k,Pune,Job Security,Job Security
+Foundever,,39,3.6,1.8,7.2k,Miami,Promotions / Appraisal,Promotions / Appraisal
+Nokia Networks,Hardware & Networking,,4.3,1.8,12k,Chennai,Company Culture,
+3i Infotech,IT Services & Consulting,31,3.5,1.8,11k,Mumbai,Promotions / Appraisal,Promotions / Appraisal
+Blinkit,Internet,11,3.8,1.8,8.7k,Gurgaon,Job Security,Job Security
+Jindal Stainless,Iron & Steel,54,4.2,1.8,9.3k,NCR,Job Security,
+Cloudnine Hospital,,17,4.4,1.8,2.4k,Bangalore,Skill Development / Learning,
+Mahindra Holidays Resorts,Hospitality,28,3.5,1.8,5.9k,Mumbai,Promotions / Appraisal,Promotions / Appraisal
+Cybage,IT Services & Consulting,29,3.9,1.8,17.3k,Pune,Job Security,Promotions / Appraisal
+ICICI Securities,Financial Services,29,3.9,1.8,8.9k,Mumbai,Job Security,
+Life Insurance Corporation of India,Insurance,68,4.4,1.8,4.5k,Mumbai,Work Life Balance,
+Google,Software Product,5,4.4,1.8,20.9k,View,Company Culture,
+Syngene International,Clinical Research,31,3.9,1.8,11.5k,Bengaluru,Job Security,Promotions / Appraisal
+Biocon Limited,Biotechnology,46,3.9,1.8,11.5k,Rural,Job Security,Promotions / Appraisal
+BT Group,,178,4.0,1.8,10.9k,London,Work Life Balance,Promotions / Appraisal
+Akums Drugs Pharmaceuticals Limited,Pharma,20,4.3,1.8,5.9k,NCR,Job Security,
+Planet Spark,EdTech,7,3.7,1.8,2.9k,Gurgaon,Skill Development / Learning,Promotions / Appraisal
+JCB,,79,4.0,1.8,8.9k,Rocester,Work Life Balance,Promotions / Appraisal
+Gallagher,Insurance,97,3.8,1.8,11.4k,Meadows,Job Security,Promotions / Appraisal
+Myntra,Internet,17,4.0,1.8,9.9k,Bangalore,Company Culture,Promotions / Appraisal
+Indian Railways,Railways,171,4.2,1.7,3.5k,NCR,Job Security,
+GlaxoSmithKline Pharmaceuticals,Pharma,194,4.1,1.7,5.4k,Brentford,Company Culture,
+upGrad,EdTech,9,3.8,1.7,8.1k,Francisco,Salary & Benefits,
+Cadila Pharmaceuticals,Pharma,73,3.5,1.7,7.1k,Ahmedabad,Job Security,Job Security
+Canara HSBC Life Insurance,Insurance,16,3.7,1.7,6.1k,Gurugram,Salary & Benefits,
+Care Health Insurance,Insurance,12,3.7,1.7,8k,Gurgaon,Promotions / Appraisal,Promotions / Appraisal
+Adani Power,Power,18,3.9,1.7,8.1k,Ahmedabad,Job Security,
+Reliance Trends,Retail,18,4.3,1.7,4.2k,Mumbai,Skill Development / Learning,
+Fincare Small Finance Bank,Banking,17,4.1,1.7,6.1k,Bangalore,Job Security,
+Pfizer,Pharma,20,4.0,1.7,5.8k,Chennai,Work Life Balance,Promotions / Appraisal
+Rivigo,Internet,10,3.9,1.7,6.4k,Gurgaon,Skill Development / Learning,Promotions / Appraisal
+Bharat Financial Inclusion,NBFC,26,3.9,1.7,4.1k,Hyderabad,Salary & Benefits,
+Intellect Design Arena,,13,4.0,1.7,11.8k,Chennai,Job Security,
+Sobha,Real Estate,29,3.9,1.7,7.9k,Bengaluru,Job Security,Promotions / Appraisal
+Whirlpool,Consumer Electronics & Appliances,113,4.1,1.7,7.7k,Michigan,Work Life Balance,Promotions / Appraisal
+RMSI,IT Services & Consulting,32,3.6,1.7,7.8k,Noida,Promotions / Appraisal,Promotions / Appraisal
+IntouchCX,BPO,23,3.0,1.7,7.8k,Winnipeg,Promotions / Appraisal,Promotions / Appraisal
+Renault Nissan,,17,4.2,1.7,7.6k,Chennai,Job Security,Promotions / Appraisal
